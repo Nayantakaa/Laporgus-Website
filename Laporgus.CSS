@@ -5,7 +5,6 @@ header {
             position: sticky;
             top: 0;
             z-index: 100;
-            
         }
 
         .header-container {
@@ -354,7 +353,6 @@ header {
             margin-top: 4rem;
             padding: 3rem 0 1rem;
             border-top: 4px solid #1a5f4a;
-            
         }
 
         .footer-container {
@@ -631,5 +629,3 @@ header {
     align-items: center;
     justify-content: center;
 }
-
-
